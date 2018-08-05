@@ -1,6 +1,6 @@
 ## Welcome to xpwi's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/xpwi/py/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这里是python爬虫的代码库
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
